@@ -1,5 +1,3 @@
-# sm-gt-samples
-
 Generate Amazon SageMaker Ground Truth augmented manifest files from image and text files in Amazon S3
 
 ```
