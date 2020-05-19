@@ -1,5 +1,6 @@
 # sm-gt-samples
-Amazon SageMaker Samples
+
+Generate Amazon SageMaker Ground Truth augmented manifest files from image and text files in Amazon S3
 
 ```
 Usage: generate-manifest.py <object_type:('image' or 'text')> <input_s3_bucket> <output_s3_bucket>
